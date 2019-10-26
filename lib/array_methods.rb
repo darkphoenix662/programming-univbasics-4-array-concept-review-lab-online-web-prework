@@ -1,8 +1,8 @@
 def find_element_index(array, value_to_find) do
-  array.find_element_index(2)
-  array.find_element_index(4)
-  array.find_element_index(5)
-  array.find_element_index(6)
+  scale.index(2)
+  scale.index(4)
+  scale_2.index(5)
+  scale_2.index(6)
 end
 
 def find_max_value(array)
