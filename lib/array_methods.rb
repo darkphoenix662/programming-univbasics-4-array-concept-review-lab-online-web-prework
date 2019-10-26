@@ -1,4 +1,4 @@
-def find_element_index(array, value_to_find)
+def find_element_index(array, value_to_find) do
   array.find_element_index(2)
   array.find_element_index(4)
   array.find_element_index(5)
