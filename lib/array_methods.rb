@@ -1,3 +1,4 @@
+
 def find_element_index(array, value_to_find) do
   scale.index(2)
   scale.index(4)
